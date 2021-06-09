@@ -1,0 +1,10 @@
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14\obj\Debug\netstandard2.0\SQLiteLab14.csprojAssemblyReference.cache
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14\obj\Debug\netstandard2.0\Vistas\V_consulta.xaml.g.cs
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14\obj\Debug\netstandard2.0\Vistas\V_Detalle.xaml.g.cs
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14\obj\Debug\netstandard2.0\Vistas\V_Principal.xaml.g.cs
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14\obj\Debug\netstandard2.0\Vistas\V_Registro.xaml.g.cs
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14\obj\Debug\netstandard2.0\SQLiteLab14.AssemblyInfoInputs.cache
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14\obj\Debug\netstandard2.0\SQLiteLab14.AssemblyInfo.cs
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14\obj\Debug\netstandard2.0\SQLiteLab14.csproj.CoreCompileInputs.cache

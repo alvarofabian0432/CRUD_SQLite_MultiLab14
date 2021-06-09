@@ -1,0 +1,8 @@
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14.iOS\obj\iPhone\Debug\optimized\
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14.iOS\obj\iPhone\Debug\SQLiteLab14.iOS.csprojAssemblyReference.cache
+C:\Users\AlvaroM\source\repos\SQLiteLab14\SQLiteLab14\SQLiteLab14.iOS\obj\iPhone\Debug\SQLiteLab14.iOS.csproj.CoreCompileInputs.cache
